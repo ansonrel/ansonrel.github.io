@@ -2,92 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/01_landing/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/about/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/old_index/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/advanced/01_utils/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/advanced/02_orchestrator/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/advanced/03_components/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/how_to/</loc>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/how_to/01_build_object/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/how_to/02_create_dataset/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/how_to/03_generate_workflow/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/how_to/04_update_object/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/how_to/05_filter/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/output/01_prototype_batch/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/start/01_project_setup/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <loc>https://example.com/start/</loc>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/start/modules/01_data_module/</loc>
-         <lastmod>2023-04-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://example.com/start/modules/02_method_module/</loc>
-         <lastmod>2023-04-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://example.com/start/modules/03_metric_module/</loc>
-         <lastmod>2023-04-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://example.com/start/modules/04_Add_module_to_omnibench/</loc>
-         <lastmod>2023-04-25</lastmod>
+         <loc>https://example.com/start/01_data_module/</loc>
+         <lastmod>2023-04-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
